@@ -6,3 +6,5 @@ Back in 2020 a friend leaked their backend told me recently to make this since t
 #nomorep2c
 
 Star for a full source with the entire bypass on every single function:)
+
+Please see the new Branch keyauth-masterkey
